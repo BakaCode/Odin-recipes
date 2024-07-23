@@ -1,0 +1,1 @@
+This is the the repo for odin project foundational course that is a test to use what has been learn so far.
